@@ -1,0 +1,12 @@
+{
+  "name": "react-storage-manager",
+  "version": "0.0.3",
+  "type": "module",
+  "description": "react library to easy manage local storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Daniel Lopez Rey",
+  "license": "MIT"
+}
